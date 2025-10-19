@@ -1,6 +1,9 @@
 Question 1: Explain the difference between analog and digital signals.
+Analog signals are continuous and can take any value within a range. On the other hand, digital signals are discontinuous and have only discrete values. For example, digital signals can take values of 0 and 1, while analog signals can take any value between 0 to 1.
 
 Question 2: Give an example of something that uses digital signals and how it uses it.
+A gaming mechanical keyboard uses digital signals. When a key is pressed, the digital signal takes a value of 1. When a key is not pressed, the digital signal takes a value of 0.
 
 Question 3: Give an example of something that uses analog signals and how it uses it.
+A microphone of a gaming headset uses analog signals. When the microphone receives a sound input, the sound waves cause a diaphragm in the microphone to vibrate. This will produce a continuous analog signal that represents the sound wave’s amplitude and frequency.
 
